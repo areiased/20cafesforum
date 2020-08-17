@@ -8,7 +8,7 @@
 !/vendor/laravel/ui
 /vendor/laravel/ui/*
 !/vendor/laravel/ui/auth-backend
-.env
+# .env
 .env.backup
 .phpunit.result.cache
 Homestead.json
