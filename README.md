@@ -14,6 +14,9 @@ The passwords are confirmed to be correct at user login or whatever by comparing
 Laravel Auth system was used. If a user forgets the email or password, he can ask for a recovery email that is automatically sent using SMTP to the users email with a private token that expires after some hours. With that, he can create a new password.
 As a good practice, nothing is ever deleted from the database, only "deactivated". I've made a system where every user, post, comment or even category has an active status of 1 or 0. 1 is the default state. Deleting something only switches it to 0, does not delete it.
 
+**The `vendor/laravel/ui/auth-backend` folder was included because it is NEEDED.**
+* I changed the backend to allow for user disabling/banning by admins
+
 The programs used where VSCode for coding, Laravel as the framework with some extensions, and MAMP (like XAMPP for Mac) as the local MySQL server.
 MySQL Workbench as used to make some EER Diagrams to help build up the database relationships.
 Every database detail is coded into the migrations in Laravel, so it creates databases automatically and even creates some random posts and users for testing.
