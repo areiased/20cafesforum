@@ -21,7 +21,13 @@ The programs used where VSCode for coding, Laravel as the framework with some ex
 MySQL Workbench as used to make some EER Diagrams to help build up the database relationships.
 Every database detail is coded into the migrations in Laravel, so it creates databases automatically and even creates some random posts and users for testing.
 
-
+#### *This was completely made from scratch by me: Eduardo Correia (owner of this github profile).*
+### ⭐️ If you wanna contact me for professional enquiries, please do so!
+**My social and contact links:**
+* **My personal website** (hosted as a subdomain): [eduardocorreia.20cafes.com](eduardocorreia.20cafes.com)
+* [Old Personal Website](eduardocorreia.epizy.com)
+* [LinkedIn Profile](linkedin.com/in/eduardoxcorreia)
+* [More ways to contact me!](http://eduardocorreia.20cafes.com/contactspage)
 
 ## Laravel License
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
