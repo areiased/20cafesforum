@@ -24,7 +24,7 @@ Every database detail is coded into the migrations in Laravel, so it creates dat
 #### *This was completely made from scratch by me: Eduardo Correia (owner of this github profile).*
 ### ⭐️ If you wanna contact me for professional enquiries, please do so!
 **My social and contact links:**
-* **My personal website** (hosted as a subdomain): [eduardocorreia.20cafes.com](eduardocorreia.20cafes.com)
+* **My personal website** (hosted as a subdomain of my own domain): [eduardocorreia.20cafes.com](eduardocorreia.20cafes.com)
 * [Old Personal Website](eduardocorreia.epizy.com)
 * [LinkedIn Profile](linkedin.com/in/eduardoxcorreia)
 * [More ways to contact me!](http://eduardocorreia.20cafes.com/contactspage)
